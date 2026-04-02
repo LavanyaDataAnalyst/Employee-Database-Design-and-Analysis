@@ -14,9 +14,9 @@
 
 ## 📘Project Overview:
 
-> Designed and analyzed an employee database using SQL by creating tables for employees, departments, and locations.
-> Performed data operations and queries using joins, aggregate functions, and filtering to analyze workforce data.
-> Generated insights on salary distribution, employee demographics, and department performance for decision-making.
+* Designed and analyzed an employee database using SQL by creating tables for employees, departments, and locations.
+* Performed data operations and queries using joins, aggregate functions, and filtering to analyze workforce data.
+* Generated insights on salary distribution, employee demographics, and department performance for decision-making.
 
 ## 🗂 Data Source:
 * The database consists of three main tables:
@@ -24,27 +24,27 @@
 **Employees**
 
 Stores employee details such as:
-> Employee ID
-> Name
-> Gender
-> Age
-> Hire Date
-> Designation
-> Department ID
-> Location ID
-> Salary
+>* Employee ID
+>* Name
+>* Gender
+>* Age
+>* Hire Date
+>* Designation
+>* Department ID
+>* Location ID
+>* Salary
 
 **Departments**
 
 Contains department-related information:
-> Department ID
-> Department Name
+>* Department ID
+>* Department Name
 
 **Location**
 
 Stores office location details:
-> Location ID
-> Location Name
+>* Location ID
+>* Location Name
 
 
 ## 🛠 Tools & Technologies:
